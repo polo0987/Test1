@@ -8,11 +8,14 @@ Source Database       : thread
 
 Target Server Type    : MYSQL
 Target Server Version : 50620
-File Encoding         : 65001
+File Encoding         : 65002
 
-Date: 2016-11-02 15:16:43
+
 */
 
+
+-----daadfadfadfadfalsdfjaldjsfadf
+-------adfalsdfja;lsdfadfadf
 SET FOREIGN_KEY_CHECKS=0;
 
 -- ----------------------------
