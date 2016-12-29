@@ -12,10 +12,10 @@ File Encoding         : 65001
 
 Date: 2016-11-02 15:16:43
 */
---jinhu update thisfile
+
 SET FOREIGN_KEY_CHECKS=0;
 
-
+-- ----------------------------
 -- Table structure for batch_job_execution
 -- ----------------------------
 DROP TABLE IF EXISTS `batch_job_execution`;
